@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhiram Gaddam</h1>
+<h1 align="center">Hi <img width="60" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/wave.gif" alt="Hand Wave" />  , I'm Abhiram Gaddam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
