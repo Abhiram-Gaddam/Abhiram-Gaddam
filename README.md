@@ -1,26 +1,51 @@
 <h1 align="center">Hi 👋, I'm Gaddam Bhanu Venkata Abhiram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack & GenAI Developer | Turning Workflows into Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-gaddam&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram-gaddam" /> </p>
-
-- 🔭 I’m currently working on **Frontend-Development,Machine Learning and Gen-Ai**
-
-- 🌱 I’m currently learning **Node.js MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://abhiram-gaddam.github.io/](https://abhiram-gaddam.github.io/)
-
-- 💬 Ask me about **Python, React, Java Script, Node.js**
-
-- 📫 How to reach me **gaddamabhiram.53@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhiramgaddam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiramgaddam/" height="30" width="40" /></a>
+<p align="center">
+  <i>Student on paper. Builder everywhere else. Most of what I know, I learned by building something real and watching it break in production.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://abhiram-gaddam.github.io/"><img src="https://img.shields.io/badge/Portfolio-abhiram--gaddam.github.io-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/abhiramgaddam/"><img src="https://img.shields.io/badge/LinkedIn-abhiramgaddam-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gaddamabhiram53@gmail.com"><img src="https://img.shields.io/badge/Email-gaddamabhiram53%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-gaddam&show_icons=true&locale=en&layout=compact" alt="abhiram-gaddam" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiram-gaddam&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhiram-gaddam" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-gaddam&show_icons=true&locale=en" alt="abhiram-gaddam" /></p>
+---
+
+### 🚀 What I Actually Do (Beyond the Tutorials)
+
+**1. Shipping Real Business Value**  
+I don't just write code; I digitize messy, real-world workflows. I took the Embryologists Association of Andhra Pradesh (EAAP) from a blank schema to a live production platform, handling role-based auth, dynamic canvas certificate generation, and webhook-driven Razorpay integrations end-to-end. 
+
+**2. Agentic AI & Applied Machine Learning**  
+Instead of just wrapping basic APIs, I build orchestrated AI architectures. My Intelligent Invoice Platform combines Google Cloud Vision OCR, LangGraph state machines, and Gemini 2.5 Flash with hybrid vector retrieval to parse and query unstructured financial data. I also have deep roots in classical ML, having engineered a fraud detection pipeline that boosted minority class recall from 0% to >85% using ADASYN and Isolation Forests.
+
+**3. Unconventional Versatility & Automation**  
+I thrive on building resilient systems outside my main tech stack. Whether it's engineering a custom automated trading algorithm in MQL5 for MetaTrader 5, or deploying a daily tech-job notification scraper utilizing Python, Playwright, and scheduled GitHub Actions, I build tools that solve unique problems and run reliably in the background.
+
+---
+
+### 🛠️ The Core Stack
+
+* **Frontend Architecture:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+* **Backend & APIs:** Node.js, Express, Python, FastAPI
+* **Databases & Cloud:** PostgreSQL, Supabase, Firebase, MongoDB, AWS S3
+* **AI & Data Extraction:** Google Gemini, LlamaIndex, LangGraph 
+* **DevOps & Tooling:** Git, GitHub Actions, Vercel, Playwright
+
+---
+
+### 📈 How I Build
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiram-gaddam&show_icons=true&locale=en" alt="Abhiram's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-gaddam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <b>Currently open for software engineering roles, full-stack development, and GenAI opportunities.</b>
+</p>
